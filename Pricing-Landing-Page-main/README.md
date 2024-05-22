@@ -8,7 +8,6 @@ This is a pricing landing page created as part of the AICTE internship at Motion
 - [Features](#features)
 - [Preview](#preview)
 - [Usage](#usage)
-- [Connect With Me](#connectwithme)
 
 ## Introduction
 
@@ -36,5 +35,4 @@ This landing page is a result of the AICTE internship task at Motioncut. It pres
 3. Customize the content in `index.html` and `styles.css` according to your preferences.
 
 
-## Connect with Me
-LinkedIn: https://www.linkedin.com/in/bindumadhavibukka
+
